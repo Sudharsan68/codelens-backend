@@ -4,8 +4,8 @@
 - [x] Committed dependency fix
 - [x] Rename branch to main
 - [x] Add remote origin https://github.com/Sudharsan68/codeLens.git
-- [ ] Pull remote changes to resolve push conflict
-- [ ] Push to origin main
-- [ ] Add backend and frontend directories to staging (if needed)
-- [ ] Commit with message "Add backend and frontend" (if needed)
-- [ ] Push backend and frontend to origin main (if needed)
+- [x] Pull remote changes to resolve push conflict
+- [x] Push to origin main
+- [x] Add backend and frontend directories to staging (merged)
+- [x] Commit with message "Merge remote changes and update TODO"
+- [x] Push backend and frontend to origin main
